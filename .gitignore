@@ -1,0 +1,4 @@
+# Files to be ignored by git
+
+.vscode
+ideas.txt
