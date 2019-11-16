@@ -63,3 +63,6 @@ This is licensed under the MIT License. The license can be read
 Acknowledgements
 ================
 
+The `The Erdös Number Project <https://oakland.edu/enp/>`__ at 
+`Oakland University <https://oakland.edu/>`__ was an invaluable resource 
+for this project. 
