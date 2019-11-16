@@ -58,7 +58,7 @@ License
 =======
 
 This is licensed under the MIT License. The license can be read 
-`here <>`__. 
+`here <https://github.com/apinchbeck/erdos-number-calculator/blob/master/LICENSE>`__. 
 
 Acknowledgements
 ================
